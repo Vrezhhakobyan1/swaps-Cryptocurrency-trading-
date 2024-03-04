@@ -4,10 +4,13 @@ To view you need to download the file.
 В видео демонстрируется тесты, которые были выполнены в ходе тестирования веб приложения для торговли криптовалюты "swaps".
 Для того чтобы просмотреть, необходимо загрузить файл.
 
-## Project Information: 
-URL: https://crypto-new.swaps.fun/
+The URL that was used during testing in the video has been changed.
+URL-адрес, который использовался во время тестирования в видео, был изменен.
 
-URL with protected routes: https://crypto-new.swaps.fun/buy-crypto/summary
+## Project Information: 
+URL: https://crypto.swaps.fun
+
+URL with protected routes: https://crypto.swaps.fun/buy-crypto/summary
 
                         
 ## Test type : Exploratory
